@@ -1,0 +1,6 @@
+- Python is an object oriented, dynamic, interpreted language
+- Style counts. Refer to PEP 8 if you are unsure about how to style your code
+- Variables are containers that we use to store data
+- The data we store in variables have different types
+- The types of operators and methods we can perform on variables depends on the type of variable
+- We use the dir() to determine what methods are available
